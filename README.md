@@ -1,2 +1,4 @@
-# Opencv_awesome_things
-# I add existing small projects that I find from different sources for my friends and others who wants to learn OpenCV-related things.
+# If you use MacOS, you need to install this following python libraries
+pip install opencv-contrib-python
+pip install opencv-python-headless
+
