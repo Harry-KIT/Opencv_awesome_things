@@ -1,2 +1,1 @@
-If you use the laptop, please do not to forget videocapture 1 to 0.
-Thank to opencv_attempts repo creators.
+# I created this repo for my friends who has OpenCV-related interest. The repo contains existing and exiting OpenCV projects by different skilled programmers in the field of AI. So enjoy with various performances!!!
